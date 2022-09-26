@@ -1,0 +1,42 @@
+.header_div{
+background: rgba(255, 255, 255, 0.505);
+color: rgb(163, 68, 9);
+font-family: 'Chicle', cursive;
+text-shadow: -1px 5px 5px rgb(211, 128, 50);
+}
+.header_div p{
+    font-family: 'Satisfy', cursive;
+    color: rgb(167, 90, 22);
+    letter-spacing: 1px;
+    font-size: 17px;
+    font-weight: bolder;
+    text-shadow: none;
+}
+.main_div button{
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+}
+body{
+background-color: beige;
+font-family: 'DynaPuff', cursive;
+}
+.footer{
+position: fixed;
+color: rgb(96, 96, 96);
+background-color: white;
+padding: 20px;
+line-height: 30px;
+text-align: center;
+font-size: 25px;
+width: 100%;
+bottom: 0;
+text-shadow: 5px 5px 5px rgb(166, 166, 166);
+background-color: aliceblue;
+}
+
+.contact{
+color: rgb(0, 106, 255);
+text-shadow: none;
+font-size: 20px;
+}
